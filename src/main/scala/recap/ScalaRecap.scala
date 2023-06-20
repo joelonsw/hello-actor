@@ -1,4 +1,4 @@
-package scala_review
+package recap
 
 import java.util.concurrent.Executors
 import scala.concurrent.duration.Duration
